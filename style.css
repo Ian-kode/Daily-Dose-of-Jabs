@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background: #2d2d2d;
+}
+
+h1 {
+  padding: 10px;
+  background: #cd214f;
+}
+
+.header {
+  font-style: italic;
+  font-weight: bold;
+}
+
+h2 {
+  padding: 10px;
+  background: #516c95;
+}
+
+a {
+  color: #9e9eff;
+}
+
+img {
+  width: 25%;
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 50px auto;
+}
+
+.h3-footer {
+  text-align: left;
+}
+
+.logo {
+  width: 150px;
+}
