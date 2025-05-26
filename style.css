@@ -1,28 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
+  padding: 15px;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: white;
+  color: whitesmoke;
+  background: black;
+}
+
+.container {
+  width: 80%;
   background: #2d2d2d;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  max-width: auto;
+  border: 1px solid white;
 }
 
 h1 {
   padding: 10px;
   background: #cd214f;
+  font-size: 50px;
 }
 
 .header {
   font-style: italic;
   font-weight: bold;
+  padding: 10px;
+}
+
+nav {
+  padding: 5px;
+}
+
+nav a {
+  padding: 15px;
 }
 
 h2 {
-  padding: 10px;
+  padding: 5px;
   background: #516c95;
 }
 
 a {
   color: #9e9eff;
 }
+
+/* article p {
+  font-size: 30px;
+} */
 
 img {
   width: 25%;
